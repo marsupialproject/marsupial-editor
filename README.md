@@ -1,5 +1,5 @@
 This repository is for Marsupial Editor, the database editor companion application to Marsupial EMR. <br/>
-Releases for Marsupial Editor are available in this repository.<br/>
+[Releases](https://github.com/marsupialproject/marsupial-editor/releases) for Marsupial Editor are available in this repository.<br/>
 [Documentation for Marsupial Editor](https://github.com/marsupialproject/marsupial-emr/wiki) is located in the main [Marsupial EMR repository](https://github.com/marsupialproject/marsupial-emr)
 # What is Marsupial? (https://www.marsupialemr.com)
 Marsupial is a free electronic medical record solution for healthcare educators. Marsupial provides students and educators in nursing and other healthcare disciplines the ability to augment their labs and simulations with realistic charting and medication administration experiences.
