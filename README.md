@@ -1,3 +1,4 @@
+# Marsupial Editor
 This repository is for Marsupial Editor, the database editor companion application to Marsupial EMR. <br/>
 [Releases](https://github.com/marsupialproject/marsupial-editor/releases) for Marsupial Editor are available in this repository.<br/>
 [Documentation for Marsupial Editor](https://github.com/marsupialproject/marsupial-emr/wiki) is located in the main [Marsupial EMR repository](https://github.com/marsupialproject/marsupial-emr)
